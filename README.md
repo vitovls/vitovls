@@ -8,8 +8,14 @@
 
 
 <img align='right' src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/vitovls">
+
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h2 align='center'>Stacks</h2>
 
