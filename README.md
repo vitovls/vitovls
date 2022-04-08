@@ -16,7 +16,7 @@
 
 
 
-<h2 align='center'>Stacks</h2>
+<h2 align='center'>Stacks 👨‍💻</h2>
 
 <h3 align='center'>Frontend 👁️‍🗨️</h3>
 <p align='center'>
