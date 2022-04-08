@@ -6,7 +6,7 @@
 <br>Estudo e aplico o meu conhecimento na área a mais de um ano junto a Trybe.</p>
 
 
-<h3 align='right'>Contato</h3>
+
 <img align='right' src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/vitovls">
 <br>
 <br>
@@ -38,5 +38,7 @@
 
 <p align='center'> 🌟 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitovls&show_icons=true&theme=dracula">
+  <img width=405 src="https://github-readme-stats.vercel.app/api?username=vitovls&show_icons=true&theme=dracula">
+  <img width=340 src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitovls&layout=compact&theme=dracula'>
 </p>
+
