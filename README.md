@@ -1,50 +1,44 @@
-<img align='right' src="https://media.giphy.com/media/SiUV5nib8Rm4U/giphy.gif">
+🌎 **_Hello World! > Olá Mundo!_**
 
-<h2 align='right'> Olá, pessoas, bem vindo ao meu perfil do GitHub!</h2>
+[![Linkedin: vitovls](https://img.shields.io/badge/-Victor%20Veloso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitovls/)](https://www.linkedin.com/in/vitovls/)
+[![Site: vitovls](https://img.shields.io/badge/-Personal%20Site-black?style=flat-square&logo=about.me&logoColor=white&link=https://www.vitovls.vercel.app/)](https://www.vitovls.vercel.app/)
 
-<p align='right'>Meu nome é Victor Veloso, sou um desenvolvedor Fullstack.
-<br>Estudo e aplico o meu conhecimento na área a mais de um ano junto a Trybe.</p>
+> First of all, may the force be with you! ✨
+
+#### 🤔 who I am?
+
+- My name is Victor Veloso! 👋🏼
+- I'm from Brazil 🇧🇷
+- I'm Fullstack Web Developer 👨🏼‍💻
+- I have studied and applied my knowledge for over a year with Trybe. 📚
+- I'm looking for my first job. 🔎
+
+### My Stacks 🛠
+
+#### Front-End 🎨
+
+![HTML](https://img.shields.io/badge/HTML5-%2344475a?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%236272a4?style=flat-square&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-%2344475a?style=flat-square&logo=JavaScript&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-%236272a4?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2344475a?style=flat-square&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%236272a4?style=flat-square&logo=Redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-%2344475a?style=flat-square&logo=ReactRouter&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-%236272a4?style=flat-square&logo=StyledComponents&logoColor=white)
+
+#### Back-End ⚙
+
+![TS](https://img.shields.io/badge/TypeScript-%2344475a?style=flat-square&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%236272a4?style=flat-square&logo=Python&logoColor=white)
+![Node](https://img.shields.io/badge/Node-%2344475a?style=flat-square&logo=Node.JS&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%236272a4?style=flat-square&logo=MySQL&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2344475a?style=flat-square&logo=Sequelize&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-%236272a4?style=flat-square&logo=Postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2344475a?style=flat-square&logo=MongoDB&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%236272a4?style=flat-square&logo=Supabase&logoColor=white)
 
 
+### Stats 📈
 
-<img align='right' href="https://www.linkedin.com/in/vitovls" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/vitovls">
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-<h2 align='center'>Stacks 👨‍💻</h2>
-
-<h3 align='center'>Frontend 👁️‍🗨️</h3>
-<p align='center'>
-  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
-  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'>
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
-  <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'>
-  <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
-  <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'>
-</p>
-
-<h3 align='center'>Backend 🔙</h3>
-<p align='center'>
-  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'>
-  <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
-  <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
-  <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'>
-  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
-  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
-  <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white'>
-</p>
-
-<br>
-
-<p align='center'> 🌟 </p>
-<p align='center'>
-  <img width=405 src="https://github-readme-stats.vercel.app/api?username=vitovls&show_icons=true&theme=dracula">
-  <img width=340 src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitovls&layout=compact&theme=dracula'>
-</p>
-
+![Stats_1](https://github-readme-stats.vercel.app/api?username=vitovls&show_icons=true&theme=dracula)
+![Stats_2](https://github-readme-stats.vercel.app/api/top-langs/?username=vitovls&layout=compact&theme=dracula)
