@@ -1,7 +1,7 @@
 🌎 **_Hello World! > Olá Mundo!_**
 
 [![Linkedin: vitovls](https://img.shields.io/badge/-Victor%20Veloso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitovls/)](https://www.linkedin.com/in/vitovls/)
-[![Site: vitovls](https://img.shields.io/badge/-Personal%20Site-black?style=flat-square&logo=about.me&logoColor=white&link=https://www.vitovls.vercel.app/)](https://www.vitovls.vercel.app/)
+[![Site: vitovls](https://img.shields.io/badge/-Personal%20Site-black?style=flat-square&logo=about.me&logoColor=white&link=https://vitovls.vercel.app//)](https://vitovls.vercel.app/)
 
 > First of all, may the force be with you! ✨
 
