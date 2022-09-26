@@ -22,10 +22,11 @@
 ![JS](https://img.shields.io/badge/JavaScript-%2344475a?style=flat-square&logo=JavaScript&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-%236272a4?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2344475a?style=flat-square&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%236272a4?style=flat-square&logo=Redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-%2344475a?style=flat-square&logo=ReactRouter&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-%236272a4?style=flat-square&logo=StyledComponents&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2344475a?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%236272a4?style=flat-square&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%2344475a?style=flat-square&logo=Redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-%236272a4?style=flat-square&logo=ReactRouter&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-%2344475a?style=flat-square&logo=StyledComponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%236272a4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### Back-End ⚙
 
@@ -38,6 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2344475a?style=flat-square&logo=MongoDB&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%236272a4?style=flat-square&logo=Supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%2344475a?style=flat-square&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%236272a4?style=flat-square&logo=SQLite&logoColor=white)
 
 
 ### Stats 📈
