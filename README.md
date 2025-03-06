@@ -9,8 +9,7 @@
 - My name is Victor Veloso! 👋🏼
 - I'm from Brazil 🇧🇷
 - I'm Fullstack Web Developer 👨🏼‍💻
-- I have studied and applied my knowledge for over a year with Trybe. 📚
-- I'm looking for my first job. 🔎
+- I'm developer in hipermation
 
 ### My Stacks 🛠
 
