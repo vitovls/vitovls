@@ -2,8 +2,6 @@
 
 [![Linkedin: vitovls](https://img.shields.io/badge/-Victor%20Veloso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitovls/)](https://www.linkedin.com/in/vitovls/)
 
-> First of all, may the force be with you! ✨
-
 #### 🤔 who I am?
 
 - My name is Victor Veloso! 👋🏼
